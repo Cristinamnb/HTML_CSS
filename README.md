@@ -16,4 +16,4 @@ Le projet contient les dossiers suivants :
 Clonez ce projet et commencez à l’utiliser.
 
 ```bash
-git clone https://github.com/Cristinamnb/Openclassrooms.git
+git clone https://github.com/Cristinamnb/HTML_CSS.git
